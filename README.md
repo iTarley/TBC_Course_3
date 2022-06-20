@@ -1,7 +1,7 @@
 # Common Kotlin Calculation Class
 ## TBC_Course_3
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/metaplayer-6d01c.appspot.com/o/image_2022-06-20_102626819.png?alt=media&token=8fc3bc94-3a4c-409f-9a7d-22fa455be705)
+![Alt text](https://firebasestorage.googleapis.com/v0/b/metaplayer-6d01c.appspot.com/o/image_2022-06-20_104653055.png?alt=media&token=5a3ea2c5-575c-4c92-9c3a-db8d6d886d34)
 
 შექმენით კლასი სადაც აღწერილი გექნებათ რამდენიმე ფუნქცია მათემატიკური
 ოპერაციებისათვის
