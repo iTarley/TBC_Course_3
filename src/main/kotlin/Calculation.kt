@@ -32,7 +32,7 @@ class Calculation {
     }
     fun evenSum():Int{
         var sum = 0
-        for (digit in 1..100) {
+        for (digit in 1..98) {
             if (digit % 2 == 0) {
                 sum += digit
             }
