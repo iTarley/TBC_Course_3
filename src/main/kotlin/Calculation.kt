@@ -40,16 +40,8 @@ class Calculation {
         return sum
     }
     fun reverseSum(x:Int):String{
-        var reversed = 0
-        var x = x
-        while (x != 0) {
-            val digit = x % 10
-            reversed = reversed * 10 + digit
-            x /= 10
-        }
-
-
-        return ("შებრუნებული რიცხვი: $reversed")
+        val reverse = x.toString().reversed()
+        return ("შებრუნებული რიცხვი: $reverse")
     }
     fun polindromCheck(x:String):String{
         val xBuilder = StringBuilder(x)

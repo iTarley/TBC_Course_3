@@ -5,7 +5,7 @@ fun main() {
     println(calculator.lcmCalc(12,15))
     println(calculator.containsCheck("მე მიყვარს ნაყინი"))
     println(calculator.evenSum())
-    println(calculator.reverseSum(2534))
+    println(calculator.reverseSum(25511))
     println(calculator.polindromCheck("არა"))
 
 }
